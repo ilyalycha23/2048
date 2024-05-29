@@ -34,7 +34,7 @@ public class Field : MonoBehaviour
     }
 
     private void OnInput(Vector2 direction) {
-        if (!GameController.GameStarted) { //началась ли игра
+        if (!GameController.GameStarted) { 
             return;
         }
 
