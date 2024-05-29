@@ -4,7 +4,7 @@
 <p align="center">"2048" - это логическая игра, в которой игроку необходимо соединять блоки с одинаковыми числами, чтобы получить блок с числом 2048 или более.<p>
 <hr>
 <h2>ДЕМО</h2>
-<img src="https://github.com/ilyalycha23/2048/blob/main/obzor.jpg" height="100"/></h1>
+<img src="https://github.com/ilyalycha23/2048/blob/main/obzor.jpg"/></h1>
 <hr>
 <h2 align="left">Технологии</h2>
 <p>Движок проекта: Unity<br> 
