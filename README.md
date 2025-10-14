@@ -65,7 +65,7 @@
 ## 📧 Контакты
 
 По всем вопросам и предложениям вы можете написать на почту:  
-[![Email](https://img.shields.io/badge/Email-ilyalycha23@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ilyalycha23@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ilyalycha23@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ilyalav2323@gmail.com)
 
 ---
 
