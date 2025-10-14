@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio)](https://visualstudio.microsoft.com/)
 
 **2048** — это увлекательная и захватывающая логическая головоломка, где ваша цель — соединять плитки с одинаковыми числами, чтобы получить заветную плитку **2048** или даже превзойти этот рубеж!
-
+![Обзор проекта](https://github.com/ilyalycha23/2048/blob/main/obzor.jpg)
 
 ---
 
